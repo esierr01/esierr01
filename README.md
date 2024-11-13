@@ -13,5 +13,6 @@ Para mis desarrollos de sistemas utilizao metodologías Agile Scrum y Prototipad
 Tecnologías utilizadas:
 
 <div align="center">
-  <img src="Logo.jpg" width="200">
+  <img src="Windows 10.png" width="50">
+  <img src="Linux.png" width="50">
 </div>
