@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Logo.jpg" width="150">
+  <img src="./img/Logo.jpg" width="150">
   <h2>Hola, soy Emmanuel Sierra, Desarrollador de Aplicaciones GUI / WEB</h2>
 </div>
 
@@ -16,31 +16,26 @@ Para mis desarrollos, utilizo metodologías ágiles como Scrum y Prototipado, lo
 <h3>Tecnologías utilizadas:</h3>
 
 <div align="center">
-  <img src="logo python.png" width="50">
-  <img src="tkinter.png" width="40">
-  <img src="Flask.png" width="55">
-  <img src="logo django.png" width="60">
-
-  <img src="logo php.png" width="60">
-  <img src="laravel.png" width="60">
-
-  <img src="js.png" width="60">
-
-  <img src="logo html.png" width="60">
-  <img src="logo css.png" width="60">
-  <img src="Logo Bootstrap.png" width="60">  
+  <img src="./img/logo python.png" width="50">
+  <img src="./img/tkinter.png" width="40">
+  <img src="./img/Flask.png" width="55">
+  <img src="./img/logo django.png" width="60">
+  <img src="./img/logo php.png" width="60">
+  <img src="./img/laravel.png" width="60">
+  <img src="./img/js.png" width="60">
+  <img src="./img/logo html.png" width="60">
+  <img src="./img/logo css.png" width="60">
+  <img src="./img/Logo Bootstrap.png" width="60">  
 </div>
 
 <div align="center">
-  <img src="mysql.png" width="50">
-  <img src="PostgreSQL.png" width="50">
-  <img src="logo mongodb.png" width="50">
-  
-  <img src="git.png" width="50">
-  <img src="github.png" width="50">
-
-  <img src="Windows 10.png" width="50">
-  <img src="Linux.png" width="50">
+  <img src="./img/mysql.png" width="50">
+  <img src="./img/PostgresSQL.png" width="50">
+  <img src="./img/logo mongodb.png" width="50">  
+  <img src="./img/git.png" width="50">
+  <img src="./img/github.png" width="50">
+  <img src="./img/Windows 10.png" width="50">
+  <img src="./img/Linux.png" width="50">
 </div>
 
 <hr>
