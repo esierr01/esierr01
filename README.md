@@ -19,10 +19,15 @@ Para mis desarrollos, utilizo metodologías ágiles como Scrum y Prototipado, lo
   <img src="./img/logo python.png" width="50">
   <img src="./img/tkinter.png" width="40">
   <img src="./img/Flask.png" width="55">
-  <img src="./img/logo django.png" width="60">
+  <img src="./img/logo django.png" width="60">  
+</div>
+<div align="center">
   <img src="./img/logo php.png" width="60">
   <img src="./img/laravel.png" width="60">
+</div>
+<div align="center">
   <img src="./img/js.png" width="60">
+  <img src="./img/typescript.png" width="60">
   <img src="./img/logo html.png" width="60">
   <img src="./img/logo css.png" width="60">
   <img src="./img/Logo Bootstrap.png" width="60">  
@@ -32,6 +37,8 @@ Para mis desarrollos, utilizo metodologías ágiles como Scrum y Prototipado, lo
   <img src="./img/mysql.png" width="50">
   <img src="./img/PostgresSQL.png" width="50">
   <img src="./img/logo mongodb.png" width="50">  
+</div>
+<div align="center">
   <img src="./img/git.png" width="50">
   <img src="./img/github.png" width="50">
   <img src="./img/Windows 10.png" width="50">
@@ -42,4 +49,5 @@ Para mis desarrollos, utilizo metodologías ágiles como Scrum y Prototipado, lo
 
 <h4>Para contactarme: </h4> 
 
+[![Web](https://img.shields.io/badge/My_Website-esierr01.github.io-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://esierr01.github.io/)
 [![Email](https://img.shields.io/badge/emmanuel.sierra@gmail.com-mi_email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:emmanuel.sierra@gmail.com)
