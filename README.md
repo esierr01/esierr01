@@ -52,4 +52,5 @@ Para mis desarrollos, utilizo metodologías ágiles como Scrum y Prototipado, lo
 <h4>Para contactarme: </h4> 
 
 [![Web](https://img.shields.io/badge/My_Website-esierr01.github.io-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://esierr01.github.io/)
+
 [![Email](https://img.shields.io/badge/emmanuel.sierra@gmail.com-mi_email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:emmanuel.sierra@gmail.com)
