@@ -21,7 +21,6 @@ Para mis desarrollos, utilizo metodologías ágiles como Scrum y Prototipado, lo
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
 [![Flet](https://img.shields.io/badge/Flet-00BFAE?style=for-the-badge&logo=flet&logoColor=white)]()
-
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 [![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)]()
 
@@ -40,7 +39,6 @@ Para mis desarrollos, utilizo metodologías ágiles como Scrum y Prototipado, lo
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 [![Windows10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)]()
-
 [![CMD](https://img.shields.io/badge/CMD-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)]()
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)]()
 [![GitBash](https://img.shields.io/badge/Git_Bash-4B92DB?style=for-the-badge&logo=gitbash&logoColor=white)]()
@@ -49,7 +47,7 @@ Para mis desarrollos, utilizo metodologías ágiles como Scrum y Prototipado, lo
 
 <hr>
 
-<h4>Para contactarme: </h4> 
+<h3>Para contactarme: </h3> 
 
 [![Web](https://img.shields.io/badge/My_Website-esierr01.github.io-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://esierr01.github.io/)
 
