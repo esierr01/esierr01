@@ -16,6 +16,8 @@ Para mis desarrollos, utilizo metodologías ágiles como Scrum y Prototipado, lo
 <h3>Tecnologías utilizadas:</h3>
 
 <div align="center">
+  [![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)]()
+  
   <img src="./img/logo python.png" width="50">
   <img src="./img/tkinter.png" width="40">
   <img src="./img/Flask.png" width="55">
