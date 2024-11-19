@@ -14,39 +14,38 @@ Para mis desarrollos, utilizo metodologías ágiles como Scrum y Prototipado, lo
 <hr>
 
 <h3>Tecnologías utilizadas:</h3>
+<br>
 
 [![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)]()
+[![Tkinter](https://img.shields.io/badge/Tkinter-000000?style=for-the-badge&logo=tkinter&logoColor=white)]()
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
+[![Flet](https://img.shields.io/badge/Flet-00BFAE?style=for-the-badge&logo=flet&logoColor=white)]()
 
-<div align="center">
-  
-  <img src="./img/logo python.png" width="50">
-  <img src="./img/tkinter.png" width="40">
-  <img src="./img/Flask.png" width="55">
-  <img src="./img/logo django.png" width="60">  
-</div>
-<div align="center">
-  <img src="./img/logo php.png" width="60">
-  <img src="./img/laravel.png" width="60">
-</div>
-<div align="center">
-  <img src="./img/js.png" width="60">
-  <img src="./img/typescript.png" width="60">
-  <img src="./img/logo html.png" width="60">
-  <img src="./img/logo css.png" width="60">
-  <img src="./img/Logo Bootstrap.png" width="60">  
-</div>
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
+[![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)]()
 
-<div align="center">
-  <img src="./img/mysql.png" width="50">
-  <img src="./img/PostgresSQL.png" width="50">
-  <img src="./img/logo mongodb.png" width="50">  
-</div>
-<div align="center">
-  <img src="./img/git.png" width="50">
-  <img src="./img/github.png" width="50">
-  <img src="./img/Windows 10.png" width="50">
-  <img src="./img/Linux.png" width="50">
-</div>
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
+[![Windows10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)]()
+
+[![CMD](https://img.shields.io/badge/CMD-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)]()
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)]()
+[![GitBash](https://img.shields.io/badge/Git_Bash-4B92DB?style=for-the-badge&logo=gitbash&logoColor=white)]()
+[![VScode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
+
 
 <hr>
 
