@@ -114,15 +114,15 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esierradev&theme=radical&locale=es" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=esierradev&layout=compact&langs_count=8&theme=radical">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esierr01&theme=radical&locale=es" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=esierr01&layout=compact&langs_count=8&theme=radical">
 </div>
 
 <br />
 
 <div align="center">
   
-  [![Visitas del Perfil](https://komarev.com/ghpvc/?username=esierradev&label=Visitas%20del%20perfil&color=00d8ff&style=for-the-badge)](https://github.com/esierradev)
+  [![Visitas del Perfil](https://komarev.com/ghpvc/?username=esierr01&label=Visitas%20del%20perfil&color=00d8ff&style=for-the-badge)](https://github.com/esierr01)
 
 </div>
 
