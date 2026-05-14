@@ -1,72 +1,135 @@
 <div align="center">
-  <img src="./img/Logo.jpg" width="150">
+  <h1> ¡Hola! Soy Emmanuel Sierra </h1>
 </div>
 
-# 👋 ¡Hola! Soy Emmanuel Sierra Pacheco
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Ingeniero+en+Informática;Experto+en+Telecomunicaciones;Desarrollador+Full+Stack)](https://git.io/typing-svg)
+  
+</div>
 
-**Ingeniero en Informática | Desarrollador Full Stack | Experto en Telecomunicaciones**
+<div align="left">
+  <h2> Stack Tecnológico </h2>
+</div>
+<div align="left">
+  <h3> Frontend </h3>
+</div>
+<div align="center">
 
-Vivo en Caracas, Venezuela. Combino más de 25 años de experiencia en telecomunicaciones con pasión por el desarrollo de software. Transformo desafíos de red en herramientas web que agilizan la factibilidad, planificación y operación de servicios de datos.
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+  [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+  [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+  [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+  
+</div>
+
+<div align="left">
+  <h3> Backend </h3>
+</div>
+<div align="center">
+
+  [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+  [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
+  [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+  [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+  [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
+  [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+  [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+  
+</div>
+
+<div align="left">
+  <h3> Base de Datos </h3>
+</div>
+<div align="center">
+
+  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+  [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+  [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+  [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+  
+</div>
+
+<div align="left">
+  <h3> Herramientas </h3>
+</div>
+<div align="center">
+
+  [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+  [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+  [![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)](#)
+  [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
+  [![Bruno](https://img.shields.io/badge/Bruno-F4AA41?logo=Bruno&logoColor=black)](#)
+  [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#)
+  
+</div>
+
+<div align="left">
+  <h3> Metodologías </h3>
+</div>
+<div align="center">
+
+  [![OOP](https://img.shields.io/badge/OOP-0078d4?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyUzYuNDggMjIgMTIgMjJTMjIgMTcuNTIgMjIgMTJDMTcuNTIgMTIgMTIgNi40OCAxMiAyWiIgZmlsbD0iY3VycmVudENvbG9yIi8+CjxwYXRoIGQ9Ik0xMiA0QzE1LjMgNCAxOCAxLjcgMTggNFY4QzE4IDEwLjMgMTUuMyAxMiAxMiAxMkMxMC43IDEyIDggMTAuMyA4IDhWNEgxMloiIGZpbGw9ImN1cnJlbnRDb2xvciIvPgo8L3N2Zz4K&logoColor=white)](#)
+  [![Funcional](https://img.shields.io/badge/Funcional-EF5B25?logo=function&logoColor=white)](#)
+  [![SCRUM](https://img.shields.io/badge/SCRUM-5BE84E?logo=agile&logoColor=black)](#)
+  
+</div>
+
+<br />
+
+## Experiencia reciente
+
+<br />
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Desarrollador%20de%20WEB-Freelance-FF6B6B?style=for-the-badge" />
+        <br><strong>Desarrollador Full Stack</strong>
+        <br><em>Sep 2023 - Actual</em>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/CANTV-Actual-00D8FF?style=for-the-badge" />
+        <br><strong>Consultor de Proyectos</strong>
+        <br><em>Sep 2017 - Actual</em>
+      </td>      
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/CANTV-Comunicaciones-6C3483?style=for-the-badge" />
+        <br><strong>Consultor Contratado</strong>
+        <br><em>Junio 2006 - Marzo 2015</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<div align="left">
+  <h2> Estadisticas GitHub </h2>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esierradev&theme=radical&locale=es" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=esierradev&layout=compact&langs_count=8&theme=radical">
+</div>
+
+<br />
+
+<div align="center">
+  
+  [![Visitas del Perfil](https://komarev.com/ghpvc/?username=esierradev&label=Visitas%20del%20perfil&color=00d8ff&style=for-the-badge)](https://github.com/esierradev)
+
+</div>
 
 ---
 
-## 🚀 ¿Qué hago?
+<div align="center">
 
-- Desarrollo aplicaciones web robustas con **React, Node.js, Python (Django, Flask, FastAPI)**.
-- Diseño dashboards y motores de cálculo para ingeniería de redes.
-- Optimizo procesos de factibilidad técnica y planificación de infraestructura.
-- Conecto el mundo de las telecomunicaciones con el desarrollo ágil.
+<h4>¡Gracias por visitar mi perfil! Sigueme para que puedas ver todos los repos de mis proyectos, espero te sirvan</h4>
 
----
-
-## 🛠️ Tecnologías que uso
-
-### Frontend
-HTML, CSS (Bootstrap, Tailwind), JavaScript (React, Angular)
-
-### Backend
-Node.js, Express, PHP (Laravel), Python (Django, Flask, FastAPI)
-
-### Bases de datos
-MySQL, PostgreSQL, SQLite3, MongoDB
-
-### Metodologías
-POO, Programación funcional, SCRUM
-
-### Telecomunicaciones
-FTTx/GPON, SDH, WDM, NGN, Huawei OptiX, NCE-T, TP-Link
-
----
-
-## 📚 Formación académica
-
-- **Ingeniero en Informática** – *UNETI* (2022 – actualidad, penúltimo semestre)
-- **Técnico Superior en Informática** – *UNETI* (2022 – 2025)
-- **Operador de Estaciones de Radiocomunicaciones** – *Ministerio de Transporte y Comunicaciones* (1989)
-
----
-
-## 💼 Experiencia destacada
-
-### 👨‍💻 Desarrollador de Software Independiente (2023 – actualidad)
-Creación de soluciones web personalizadas: landing pages, herramientas de cálculo para ingeniería y aplicaciones empresariales dinámicas.
-
-### 📡 CANTV – Consultor de Planificación (2017 – actualidad)
-Gestión de proyectos de infraestructura de telecomunicaciones. Lideré la atención de más de 1200 solicitudes de servicios en 2024, optimizando procesos y coordinando equipos multidisciplinarios.
-
-### 🔧 CANTV – Ingeniero de Proyectos / Analista Senior (2006 – 2015)
-Diseño y evaluación de factibilidad técnica para servicios de alta velocidad, migración de centrales analógicas a NGN y optimización de redes.
-
----
-
-## 📬 Contacto
-
-📧 [emmanuel.sierra@gmail.com](mailto:emmanuel.sierra@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-sierra-pacheco)  
-🌐 [Portfolio](https://tu-portfolio-temporal.com)
-
----
-
-## 📁 Repositorios
-
-Explora mis proyectos. Cada uno es una solución real a problemas técnicos complejos, pensada para ser útil, clara y escalable.
+</div>
